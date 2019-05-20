@@ -11,3 +11,7 @@ Sample website with plenty of files for demos
 ## Purpose
 
 Learning
+
+## Team
+
+humans
