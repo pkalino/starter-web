@@ -11,3 +11,7 @@ Sample website with plenty of files for demos
 ## Something
 
 something text
+
+## Section 2
+
+section text
